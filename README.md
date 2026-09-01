@@ -151,8 +151,8 @@ crewai/
 
 Clone Repository
 ```
-git clone https://github.com/your-username/AI-Blog-Generator-Agent-Application.git
-cd AI-Blog-Generator-Agent-Application
+git clone https://github.com/sarankumar74/AI-Blog-Generator-Agents.git
+
 ```
 
 ## Install Dependencies
