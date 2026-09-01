@@ -156,8 +156,10 @@ cd AI-Blog-Generator-Agent-Application
 ```
 
 ## Install Dependencies
+```
 
 pip install -r requirements.txt
+```
 
 ## Configure API Keys
 
