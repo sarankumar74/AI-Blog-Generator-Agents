@@ -5,13 +5,13 @@ from crew import blog_crew
 
 
 st.set_page_config(
-    page_title="AI Blog Generator",
+    page_title="AI Blog Generator Agent Application",
     page_icon="🤖",
     layout="wide"
 )
 
 
-st.title("AI Blog Generator")
+st.title("AI Blog Generator Agent Application")
 
 st.write(
     "Generate a researched article using CrewAI Multi-Agent AI."
